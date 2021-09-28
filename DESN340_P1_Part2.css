@@ -1,0 +1,17 @@
+#footer {
+    text-align:center;
+    margin: 100 auto;
+    position:fixed;
+    bottom:0;
+}
+
+
+#banner {
+	display: block;
+}
+
+.images {
+	display:  inline-block;
+	max-width:  100%;
+	margin: 0 2.5;
+}
